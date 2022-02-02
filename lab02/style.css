@@ -1,0 +1,23 @@
+nav {
+  display: flex;
+  width: 15vw;
+  box-sizing: border-box;
+  flex-shrink: 0
+}
+
+nav a {
+  color: #194d33;
+  padding: 0.25em 0.5em;
+}
+
+nav a:hover {
+  background-color: #FA1740;
+}
+
+header, section {
+  overflow: auto;
+}
+
+section {
+  width: 85vw;
+}
